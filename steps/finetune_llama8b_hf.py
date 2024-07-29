@@ -7,7 +7,7 @@ import time
 import json
 import boto3
 
-def finetune_llama7b(preprocess_step_ret, train_config, lora_config, role, mlflow_arn, experiment_name,run_name, *args):
+def finetune_llama8b(preprocess_step_ret, train_config, lora_config, role, mlflow_arn, experiment_name,run_name, *args):
 
     mlflow.set_tracking_uri(mlflow_arn)
     mlflow.set_experiment(experiment_name)
