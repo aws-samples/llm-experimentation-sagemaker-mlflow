@@ -1,5 +1,5 @@
 
-mlflow==2.13.2
+mlflow==2.16.0
 sagemaker-mlflow==0.1.0
 transformers==4.40.0
 peft==0.10.0
