@@ -1,7 +1,7 @@
 
 mlflow==2.13.2
 sagemaker-mlflow==0.1.0
-transformers==4.40.0
+transformers==4.48.0
 peft==0.10.0
 accelerate==0.29.3
 bitsandbytes==0.43.1
